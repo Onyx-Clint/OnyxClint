@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Onyx-Client/OnyxClient/refs/heads/main/OnyxClient.lua"))()
